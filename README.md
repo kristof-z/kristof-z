@@ -13,8 +13,6 @@ Diving deeper into backend development with Node.js.
 Open-source projects that push the boundaries of web interactivity.
 Unique, visually-driven portfolios or product pages.
 Projects that make tech more accessible and fun!
-📫 How to reach me...
-Feel free to reach out to me via email or connect with me on LinkedIn for any project inquiries or tech talks!
 
 ⚡ Fun fact...
 When I’m not coding, I love tinkering with 3D design, playing the guitar, and exploring retro games for inspiration!
