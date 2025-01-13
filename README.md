@@ -1,20 +1,22 @@
-👋 Hi, I’m Kristof (aka @kristof-z)
-I'm a passionate web developer with a focus on creating engaging, user-friendly, and innovative web experiences.
+# 👋 Hi, I’m Kristof (@kristof-z)
 
-👀 I’m interested in...
-Creative UI/UX: Crafting clean, responsive, and interactive interfaces.
-3D Web Experiences: Using React Three Fiber and WebGL to bring ideas to life in immersive ways.
-New Technologies: Staying up-to-date with the latest trends in web development.
-🌱 I’m currently learning...
-Advanced React Three Fiber techniques.
-Exploring TypeScript for stronger, type-safe code.
-Diving deeper into backend development with Node.js.
-💞️ I’m looking to collaborate on...
-Open-source projects that push the boundaries of web interactivity.
-Unique, visually-driven portfolios or product pages.
-Projects that make tech more accessible and fun!
+I’m a **web developer** dedicated to building engaging, user-friendly, and innovative web experiences.
 
-⚡ Fun fact...
-When I’m not coding, I love tinkering with 3D design, playing the guitar, and exploring retro games for inspiration!
+## 🔍 Interests
+- **UI/UX Design:** Creating clean, responsive, and interactive interfaces.
+- **3D Web Experiences:** Leveraging React Three Fiber and WebGL to develop immersive projects.
+- **Emerging Technologies:** Staying current with the latest trends in web development.
+
+## 📚 Currently Learning
+- Advanced techniques in **React Three Fiber**
+- **TypeScript** for more robust, type-safe code
+- Backend development with **Node.js**
+
+## 🤝 Looking to Collaborate On
+- Open-source projects that enhance web interactivity
+- Visually-driven portfolios or product pages
+- Initiatives that make technology more accessible and enjoyable
+
+---
 
 ✨ This GitHub profile is my space to showcase my projects, share insights, and connect with fellow developers. Explore, connect, and let’s create something amazing together!
